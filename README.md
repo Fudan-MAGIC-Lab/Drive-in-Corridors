@@ -5,7 +5,7 @@
 
 Zhiwei Zhang<sup>1</sup>, Ruichen Yang<sup>1</sup>, Ke Wu<sup>1</sup>, Zijun Xu<sup>1</sup>, Jingchu Liu<sup>2</sup>, Lisen Mu<sup>2</sup>, Zhongxue Gan<sup>1</sup>, Wenchao Ding<sup>1 :email:</sup>
 
-<sup>1</sup> Fudan University <sup>2</sup> Horizon Robotics (<sup>:email:</sup>) corresponding author.
+<sup>1</sup> Fudan University <sup>2</sup> Horizon Robotics <sup>:email:</sup> corresponding author.
 Accepted to RA-L
 
 <img src="assets/Cover.png" width="1000">
@@ -19,3 +19,4 @@ I am working HARD to release the codes and results. 💪
 - [ ] Detailed Readme
 - [ ] Code Release
 - [ ] Checkpoints & Bench2Drive Records
+- [ ] Analysis
