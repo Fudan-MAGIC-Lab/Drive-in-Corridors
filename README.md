@@ -8,7 +8,7 @@ Zhiwei Zhang<sup>1</sup>, Ruichen Yang<sup>1</sup>, Ke Wu<sup>1</sup>, Zijun Xu<
 <sup>1</sup> Fudan University <sup>2</sup> Horizon Robotics (<sup>:email:</sup>) corresponding author.
 Accepted to RA-L
 
-<img src="assets/Cover.png" width="700">
+<img src="assets/Cover.png" width="1000">
 
 ### [project page](https://zhiwei-pg.github.io/Drive-in-Corridors/) | [arxiv](https://arxiv.org/abs/2504.07507) | [youtube](https://www.youtube.com/watch?v=HHC14VKnrTw) 
 
