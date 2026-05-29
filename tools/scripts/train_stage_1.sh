@@ -1,0 +1,2 @@
+CUDA_VISIBLE_DEVICES=0,1,2,3 python -m torch.distributed.run --nproc_per_node=4 --master_port=2345\
+ tools/train.py projects/configs/VAD/Corridor_stage_1.py --launcher pytorch --deterministic --work-dir work_dir

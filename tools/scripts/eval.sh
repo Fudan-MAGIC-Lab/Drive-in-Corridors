@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python tools/test.py projects/configs/VAD/Corridor_stage_2.py corridor_epoch_48_learned_weight_12.pth --launcher none --eval bbox --tmpdir tmp
