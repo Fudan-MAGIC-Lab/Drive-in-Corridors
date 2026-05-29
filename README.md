@@ -29,10 +29,12 @@ Accepted to RA-L
 ## Models
 
 
-| Method | Backbone | L2(m) | ACR(%) | CCR(%) | Config | Download |
-| :---: | :---: | :---: | :---: |  :---: | :---: | :---: |
-| CorDriver | R50 | 0.37 | 0.13 | 0.92 | TODO [config](projects/configs/VAD/VAD_tiny_stage_2.py) | TODO [model](https://drive.google.com/file/d/1KgCC_wFqPH0CQqdr6Pp2smBX5ARPaqne/view?usp=sharing) |
-| CorDriver<sup>+</sup> | R50 | 0.38 | 0.11 | 0.85 | TODO [config](projects/configs/VAD/VAD_base_stage_2.py) | TODO [model](https://drive.google.com/file/d/1FLX-4LVm4z-RskghFbxGuYlcYOQmV5bS/view?usp=sharing) |
+| Method | Backbone | L2(m) | ACR(%) | CCR(%) | 
+| :---: | :---: | :---: | :---: |  :---: | 
+| CorDriver | R50 | 0.37 | 0.13 | 0.92 | 
+| CorDriver<sup>+</sup> | R50 | 0.38 | 0.11 | 0.85 | 
+
+Model download through [google drive](https://drive.google.com/file/d/1rVqycviJQOsJP3FYJLqNwsIEZ34lex5B/view?usp=drive_link).
 
 ## Results
 - Open-loop planning results on [nuScenes](https://github.com/nutonomy/nuscenes-devkit).
